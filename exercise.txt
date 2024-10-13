@@ -1,0 +1,12 @@
+ 
+1) The terminal is a command line that allows users to interact with a computer's operating system.
+
+2) Git is a free open-source version control system for managing source code. GitHub hosts copies of these codes in repositories online.
+
+3) Steps to fork a GitHub repository:
+- Go to GitHub and navigate to the Spoon-Knife repository 
+- Select the dropdown menu under Owner. Click an owner for the forked repository
+- In the repository name field,  create a name for the fork
+- Type a description of the fork in the designated field
+- There's an option to. Select copy the default branch only
+- Press create fork
